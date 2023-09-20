@@ -87,4 +87,16 @@
 
 ## Software Geoportales, geolocalizacion (tracking de vehiculos)
 
+- [GPS TRACKING SERVER](https://github.com/freshworkstudio/gps-tracking-nodejs): Este paquete le permite crear fácilmente oyentes para sus dispositivos de rastreo GPS. Puede agregar sus implementaciones personalizadas para manejar más protocolos.
+
+- [Real-Time Tracking](https://marketingaltimetrik.medium.com/real-time-tracking-using-node-js-websockets-redis-and-open-layers-41949d7c979c): Ejemplo de tracking en tiempo real
+
+- [NodeRed](https://youtu.be/ywljyO74MjE): Ejemplo con nodered
+
+- [OpenLayers](https://github.com/openlayers/openlayers): OpenLayers es una biblioteca de alto rendimiento repleta de funciones para crear mapas interactivos en la web. Puede mostrar mosaicos de mapas, datos vectoriales y marcadores cargados desde cualquier fuente en cualquier página web. OpenLayers ha sido desarrollado para promover el uso de información geográfica de todo tipo. Es JavaScript de código abierto completamente gratuito, publicado bajo la licencia BSD de 2 cláusulas.
+
 ## Software IA
+
+- [TensorFlow.js](https://github.com/tensorflow/tfjs): TensorFlow.js es una biblioteca de JavaScript de código abierto acelerada por hardware para entrenar e implementar modelos de aprendizaje automático.
+
+- [brain.js](https://github.com/BrainJS/brain.js): Redes neuronales aceleradas por GPU en JavaScript para navegadores y Node.js
