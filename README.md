@@ -2,7 +2,7 @@
 
 ## Software CMS
 
-- [Directus](https://duckduckgo.com): Headless CMS. Admin panel, flows, webhooks, roles, authentication, rest api, grahpql.
+- [Directus](https://directus.io/): Headless CMS. Admin panel, flows, webhooks, roles, authentication, rest api, grahpql.
 
 - [KeystoneJS](https://keystonejs.com): Headless CMS. Admin panel, webhooks, roles, authentication , grahpql. **No provee REST API.**
 
