@@ -31,7 +31,9 @@
 
 ## Software TPV, SDK
 
-...
+- [Electron - Store Point of Sale](https://github.com/tngoman/Store-POS): Aplicación de punto de venta de escritorio creada con electron
+
+- [reyusfa/pos-api](https://github.com/reyusfa/pos-api): Este proyecto se creó con el propósito de aprender cómo crear una API usando nodejs y express.js. No dude en utilizar este proyecto como referencia. O no.
 
 ## Software Marketplace
 
